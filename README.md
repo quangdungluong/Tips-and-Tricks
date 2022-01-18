@@ -1,3 +1,4 @@
+## `90%` data, `9%` model and `1%` tuning.
 ## Learned from Kaggle
 |Techniques                                                     | Description             |
 |---------------------------------------------------------------|-------------------------|
