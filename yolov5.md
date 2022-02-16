@@ -1,0 +1,1 @@
+[Logging F2 while training YOLOv5](https://www.kaggle.com/c/tensorflow-great-barrier-reef/discussion/302241#1659077)
